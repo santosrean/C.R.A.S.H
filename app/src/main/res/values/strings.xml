@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">C.R.A.S.H.</string>
+    <string name="btnplay">btnPlay</string>
+    <string name="btnranking">btnRanking</string>
+    <string name="classement">Classement</string>
+    <string name="jouer">Jouer</string>
+</resources>
